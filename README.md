@@ -1,4 +1,6 @@
-openkarotz-mui
-==============
+# OpenKarotz MUI #
 
-Mobile user interface for OpenKarotz
+## Description ##
+
+Mobile User Interface for [OpenKarotz](http://openkarotz.filippi.org/).
+
