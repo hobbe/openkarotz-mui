@@ -48,3 +48,11 @@ Radio stations may be customized in the `data/radios.json` configuration file.
 ### Stories
 
 Stories may be customized in the `data/stories.json` configuration file.
+
+## License ##
+
+Copyright (c) 2013-2014 Olivier Bagot
+
+Licensed under [The MIT License (MIT)](http://opensource.org/licenses/MIT)
+
+See [LICENSE](https://github.com/hobbe/openkarotz-mui/raw/master/LICENSE)

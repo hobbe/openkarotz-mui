@@ -5,7 +5,7 @@
  * - jQuery 1.10+
  * - FancyBox 2.1.5+
  * - Bootstrap 3.0+
- * - OpenKarotz-js 0.3+
+ * - OpenKarotz-js 0.4+
  */
 
 // Config to be loaded from /config.json
@@ -127,7 +127,7 @@ function kSleep() {
 }
 
 function kWakeUp() {
-	K.wakeup(function(result) {
+	K.wakeup(true, function(result) {
 		kStatus();
 	}, function(msg) {
 		showAlert(msg);
@@ -179,7 +179,7 @@ function kLedPulse(color) {
 }
 
 function kEars(left, right) {
-	K.ears(left, right, null, function(msg) {
+	K.ears(left, right, true, null, function(msg) {
 		showAlert(msg);
 	});
 }
@@ -221,15 +221,12 @@ function loadSnapshots() {
 }
 
 function kSnapshot() {
-	//$.fancybox.showLoading();
 	$.fancybox({
 		href : 'lib/fancybox/fancybox_loading@2x.gif',
-		//href : 'img/throbber.gif',
 		title : 'Capture',
 		autoSize: true,
 		closeBtn : false,
 		beforeShow : function() {
-			//$(".fancybox-skin").css("backgroundColor", "#999999");
 			$(".fancybox-skin").css("display", "none");
 			$.fancybox.showLoading();
 		}

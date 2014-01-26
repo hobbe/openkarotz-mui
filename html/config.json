@@ -1,6 +1,6 @@
 {
 	"karotz": {
-		"host": "localhost",
+		"host": "",
 		"name": "Karotz",
 		"voice" : "claire"
 	}
