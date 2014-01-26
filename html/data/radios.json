@@ -11,7 +11,7 @@
 			{ "id": "franceinter", "name": "France Inter", "url": "http://www.tv-radio.com/station/france_inter_mp3/france_inter_mp3-128k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/8/8d/France_inter_2005_logo.svg" },
 			{ "id": "francemusique", "name": "France Musique", "url": "http://www.tv-radio.com/station/france_musique_mp3/france_musique_mp3-128k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/6/64/France_Musique_logo_2008.png" },
 			{ "id": "fun", "name": "Fun Radio", "url": "http://streaming.radio.funradio.fr/fun-1-44-128", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/Fun_Radio.png/320px-Fun_Radio.png" },
-			{ "id": "kissfm", "name": "Kiss FM", "url": "http://mp3.live.tv-radio.com/kissfm/all/kissfm-128k.mp3", "logo": "http://static.radio.fr/images/broadcasts/3074_4.jpeg" },
+			{ "id": "kissfm", "name": "Kiss FM", "url": "http://mp3.live.tv-radio.com/kissfm/all/kissfm-128k.mp3", "logo": "http://static.radio.fr/images/broadcasts/63/9d/3074/w175.png" },
 			{ "id": "lemouv", "name": "Le Mouv'", "url": "http://www.tv-radio.com/station/le_mouv_mp3/le_mouv_mp3-128k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/d3/Le_Mouv%27_logo_2008.svg" },
 			{ "id": "mfm", "name": "MFM Radio", "url": "http://str30.creacast.com/mfm1.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/b/bb/Logo-mfm.png" },
 			{ "id": "nostalgie", "name": "Nostalgie", "url": "http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_Nostalgie.png" },
@@ -34,7 +34,7 @@
 		"name": "International",
 		"radios": [
 			{ "id": "bbcworldservice", "name": "BBC World Service", "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk", "logo": "http://upload.wikimedia.org/wikipedia/commons/f/fc/BBC_World_Service_red.svg" },
-			{ "id": "radioparadise", "name": "Radio Paradise", "url": "http://stream-uk1.radioparadise.com:80/mp3-128", "logo": "http://static.radio.fr/images/broadcasts/1885_4.jpeg" }
+			{ "id": "radioparadise", "name": "Radio Paradise", "url": "http://stream-uk1.radioparadise.com/mp3-128", "logo": "http://static.radio.fr/images/broadcasts/d5/23/1885/w175.png" }
 		]
 	},
 	"francebleu": {
