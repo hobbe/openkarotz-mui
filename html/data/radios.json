@@ -2,9 +2,9 @@
 	"france": {
 		"name": "France",
 		"radios": [
-			{ "id": "bfm", "name": "BFM", "url": "http://vipicecast.yacast.net/bfm", "logo": "http://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png" },
+			{ "id": "bfm", "name": "BFM", "url": "http://mp3lg4.tdf-cdn.com/10161/bfmbusiness.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png" },
 			{ "id": "cheriefm", "name": "Chérie FM", "url": "http://mp3.live.tv-radio.com/cherie_fm/all/che_124310.mp3", "logo": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png" },
-			{ "id": "europe1", "name": "Europe 1", "url": "http://vipicecast.yacast.net/europe1", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Europe_1.svg/320px-Europe_1.svg.png" },
+			{ "id": "europe1", "name": "Europe 1", "url": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Europe_1.svg/320px-Europe_1.svg.png" },
 			{ "id": "fip", "name": "FIP", "url": "http://audio.scdn.arkena.com/11016/fip-midfi128.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/d5/FIP_logo_2005.svg" },
 			{ "id": "franceculture", "name": "France Culture", "url": "http://audio.scdn.arkena.com/11010/franceculture-midfi128.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/5/55/Logo_France_Culture.png" },
 			{ "id": "franceinfo", "name": "France Info", "url": "http://audio.scdn.arkena.com/11006/franceinfo-midfi128.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/d4/Logo_France_Info.png" },
@@ -19,16 +19,16 @@
 			{ "id": "nrj", "name": "NRJ", "url": "http://mp3.live.tv-radio.com/nrj/all/nrj_113225.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/dc/Logo_Nrj_%28radio%29_2008.svg" },
 			{ "id": "ouifm", "name": "OÜI FM", "url": "http://ouifm.ice.infomaniak.ch/ouifm-high.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/6/60/Newlogoouifm.png" },
 			{ "id": "radioclassique", "name": "Radio Classique", "url": "http://broadcast.infomaniak.net/radioclassique-high.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/7/7a/Radio_Classique_2005_logo.svg" },
-			{ "id": "radiophenix", "name": "Radio Phénix", "url": "http://www.radio-phenix.unicaen.fr:8000/radiophenix_mid.mp3", "logo": "http://www.radiophenix.fr/wp-content/themes/radiophenix.fr/images/logo_header.png" },
+			{ "id": "radiophenix", "name": "Radio Phénix", "url": "http://live.radio-campus.org:8000/caen.mp3", "logo": "http://www.radiophenix.fr/wp-content/themes/radiophenix.fr/images/logo_header.png" },
 			{ "id": "rireetchansons", "name": "Rire et Chansons", "url": "http://mp3.live.tv-radio.com/rire_et_chansons/all/rir_124629.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/c/cd/Rire_%26_Chansons_logo_2012.png" },
-			{ "id": "rmc", "name": "RMC", "url": "http://vipicecast.yacast.net/rmc", "logo": "http://upload.wikimedia.org/wikipedia/fr/7/7e/Logo_RMC_2002.png" },
+			{ "id": "rmc", "name": "RMC", "url": "http://mp3lg4.tdf-cdn.com/10160/rmc.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/7/7e/Logo_RMC_2002.png" },
 			{ "id": "rtl", "name": "RTL", "url": "http://streaming.radio.rtl.fr/rtl-1-44-96", "logo": "http://upload.wikimedia.org/wikipedia/commons/5/51/RTL_logo.svg" },
 			{ "id": "rtl2", "name": "RTL 2", "url": "http://streaming.radio.rtl2.fr/rtl2-1-44-96", "logo": "http://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png" },
-			{ "id": "skyrock", "name": "Skyrock", "url":"http://player.skyrock.fm/V4/skyrock/skyrock.m3u", "logo": "http://skyrock.fm/layouts/frontoffice/images/skyrock.png" },
+			{ "id": "skyrock", "name": "Skyrock", "url":"http://mp3lg3.tdf-cdn.com/4599/sky_151614.mp3", "logo": "http://skyrock.fm/layouts/frontoffice/images/skyrock.png" },
 			{ "id": "sudradio", "name": "Sud Radio", "url":"http://broadcast.infomaniak.net:80/start-sud-high.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/9/9d/Sudradio.gif" },
 			{ "id": "tendanceouest", "name": "Tendance Ouest", "url":"http://streaming.tendanceouest.com/tocaen.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_radio_tendance_ouest.svg/320px-Logo_radio_tendance_ouest.svg.png" },
 			{ "id": "tsfjazz", "name": "TSF Jazz", "url":"http://broadcast.infomaniak.net:80/tsfjazz-high.mp3.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/d4/Logo-tsf-jazz.png" },
-			{ "id": "virgin", "name": "Virgin Radio", "url": "http://vipicecast.yacast.net/virginradio.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/VirginRadio.png/217px-VirginRadio.png" }
+			{ "id": "virgin", "name": "Virgin Radio", "url": "http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/VirginRadio.png/217px-VirginRadio.png" }
 		]
 	},
 	"international": {
