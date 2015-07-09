@@ -4,7 +4,7 @@
 		"radios": [
 			{ "id": "bfm", "name": "BFM", "url": "http://mp3lg4.tdf-cdn.com/10161/bfmbusiness.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/0/0d/BFM_Business_logo_2010.png" },
 			{ "id": "cheriefm", "name": "Chérie FM", "url": "http://mp3.live.tv-radio.com/cherie_fm/all/che_124310.mp3", "logo": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png" },
-			{ "id": "europe1", "name": "Europe 1", "url": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Europe_1.svg/320px-Europe_1.svg.png" },
+			{ "id": "europe1", "name": "Europe 1", "url": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Europe_1_logo_%282010%29.svg" },
 			{ "id": "fip", "name": "FIP", "url": "http://audio.scdn.arkena.com/11016/fip-midfi128.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/d5/FIP_logo_2005.svg" },
 			{ "id": "franceculture", "name": "France Culture", "url": "http://audio.scdn.arkena.com/11010/franceculture-midfi128.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/5/55/Logo_France_Culture.png" },
 			{ "id": "franceinfo", "name": "France Info", "url": "http://audio.scdn.arkena.com/11006/franceinfo-midfi128.mp3", "logo": "http://upload.wikimedia.org/wikipedia/fr/d/d4/Logo_France_Info.png" },
@@ -53,7 +53,7 @@
 			{ "id": "fbbesancon", "name": "Besançon", "url": "http://www.tv-radio.com/station/france_bleu_besancon_mp3/france_bleu_besancon_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/c/c2/Logo_france_bleu_besancon.jpeg" },
 			{ "id": "fbbourgogne", "name": "Bourgogne", "url": "http://www.tv-radio.com/station/france_bleu_bourgogne_mp3/france_bleu_bourgogne_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/b/b0/Logo_france_bleu_bourgogne.gif" },
 			{ "id": "fbbreizizel", "name": "Breiz Izel", "url": "http://www.tv-radio.com/station/france_bleu_breiz_izel_mp3/france_bleu_breiz_izel_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Logo_France_Bleu_Breizh_Izel.jpg/240px-Logo_France_Bleu_Breizh_Izel.jpg" },
-			{ "id": "fbchampagne", "name": "Champagne", "url": "http://www.tv-radio.com/station/france_bleu_champagne_mp3/france_bleu_champagne_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/4/4a/Logo_France_Bleu_Champagne.jpg" },
+			{ "id": "fbchampagne", "name": "Champagne-Ardennes", "url": "http://www.tv-radio.com/station/france_bleu_champagne_mp3/france_bleu_champagne_mp3-32k.m3u", "logo": "http://static.francebleu.fr/sites/default/files/imagecache/140x140/LOGO-FBchampagneardenne-rvb.jpg" },
 			{ "id": "fbcotentin", "name": "Cotentin", "url": "http://www.tv-radio.com/station/france_bleu_cotentin_mp3/france_bleu_cotentin_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/France_Bleu_Cotentin_logo_2005.png/240px-France_Bleu_Cotentin_logo_2005.png" },
 			{ "id": "fbcreuze", "name": "Creuse", "url": "http://www.tv-radio.com/station/france_bleu_creuse_mp3/france_bleu_creuse_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/0/09/Logo_France_Bleu_Creuse.jpg" },
 			{ "id": "fbdromeardeche", "name": "Drôme Ardèche", "url": "http://www.tv-radio.com/station/france_bleu_drome_ardeche_mp3/france_bleu_drome_ardeche_mp3-32k.m3u", "logo": "http://upload.wikimedia.org/wikipedia/fr/6/62/France_Bleu_Dr%C3%B4me_Ard%C3%A8che.gif" },
