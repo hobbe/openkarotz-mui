@@ -1,3 +1,7 @@
+/*
+ * Check URL of radios from OpenKarotz MUI radio.json data file.
+ * usage: node checkRadioUrls.js
+ */
 
 // Uncaught errors
 process.on('uncaughtException', function (err) {
@@ -5,33 +9,25 @@ process.on('uncaughtException', function (err) {
 	console.error(err.stack);
 });
 
-var logError = function(error, stdout, stderr) {
-	var sys = require('sys');
-    sys.puts(stdout);
-    //sys.print('stdout: ' + stdout);
-    //sys.print('stderr: ' + stderr);
-    if (error) {
-		console.log('exec error: ' + error);
-	}
-}
-
-var execute = function(command) {
-	var exec = require('child_process').exec;
-	console.log('exec: ' + command);
-	return exec(command, logError);
-}
-
+// Do the job for the given category
 function checkCategory(category) {
 	console.log('-- ' + category.name + ' --');
 	var count = 0;
 
 	category.radios.forEach(function(radio) {
+
+		/*
+		// Proxy mode
 		var options = {
 				hostname: 'proxy',
 				port: 8080,
 				path: radio.url,
 				method: 'GET'
 		};
+		*/
+		// Direct URL mode
+		var options = radio.url;
+
 		var http = require('http');
 		var req = http.request(options, function (response) {
 			if (response.statusCode == 200) {
@@ -49,7 +45,7 @@ function checkCategory(category) {
 			}
 		});
 		req.on('error', function(e) {
-			console.log('problem with request: ' + e.message);
+			console.log('Radio ' + radio.id + ' -> Problem with request: ' + e.message);
 		});
 		req.end();
 
